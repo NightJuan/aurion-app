@@ -1,16 +1,40 @@
-# aurion_app
+## 📌 Development Checklist (Current Progress)
 
-A new Flutter project.
+### **Project Setup**
+- [x] Create GitHub repository  
+- [x] Add initial README  
+- [x] Initialize Flutter project  
+- [x] Push project to GitHub  
+- [ ] Set up project folder structure for screens  
+- [ ] Define initial app architecture  
 
-## Getting Started
+### **Core Features**
+- [ ] Onboarding screen (logo + fade-in intro)  
+- [ ] Dream/goal input  
+- [ ] Age input  
+- [ ] Local storage (save user data)  
+- [ ] Title screen with day counter  
+- [ ] Progress line animation  
+- [ ] De-Stress Mode (basic version)  
+- [ ] Motivate Mode (basic version)  
+- [ ] Lock screen widget (quotes)  
 
-This project is a starting point for a Flutter application.
+### **Design & UI**
+- [ ] Modern UI theme  
+- [ ] Calming color palette  
+- [ ] Animations + transitions  
+- [ ] Button styling for emotional modes  
+- [ ] Logo integration  
 
-A few resources to get you started if this is your first Flutter project:
+### **Advanced Features**
+- [ ] “You’re ahead of your age group” logic  
+- [ ] Personalized encouragement  
+- [ ] Custom scripts for motivation/de-stress  
+- [ ] Additional modes  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### **Publishing Prep**
+- [ ] App Store/Play Store descriptions  
+- [ ] App icon  
+- [ ] Screenshots  
+- [ ] Privacy policy  
+- [ ] Monetization (later phase)  
